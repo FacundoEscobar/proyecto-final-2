@@ -1,0 +1,13 @@
+/* imagenes nosotros */
+
+.contenedor__imagenes{
+    display: flex;
+    justify-content: space-around;
+    img{
+        padding: 3rem;
+    }
+}
+
+.banner__grande{
+    padding: 2rem;
+}

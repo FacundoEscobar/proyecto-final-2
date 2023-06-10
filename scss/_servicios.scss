@@ -1,0 +1,37 @@
+.main__servicios{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .card{
+        margin: 1rem;
+        width: 10rem;
+        .joystick{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .celu{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .pin{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .herramientas{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .negocio{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .mercado{
+            width: 18rem;
+            height: 17.9rem;
+        }
+        .provedores{
+            width: 18rem;
+            height: 17.9rem;
+        }
+    }
+}

@@ -1,0 +1,35 @@
+/* footer nosotros */
+
+.nosotros__footer{
+    background-color: #ECF2FF;
+    padding-top: 1.7rem;
+    nav{
+        div{
+            p{
+                padding-left: 68rem;
+                width: 35%;
+                display: inline;
+                color: #000;
+            }
+        }
+    }
+}
+
+.nosotros__ul--footer{
+            li{
+                a{
+                    color: #000;
+                    font-family: 'Hind', sans-serif;
+                    text-decoration: none;
+        }
+    }
+}
+
+.nosotros__ul--footer{
+    list-style-type: none;
+    li{
+        display: inline;
+        padding: 1rem;
+        margin-top: 10rem;
+    }
+}
